@@ -18,8 +18,8 @@ git push origin main
 
 | Lenguaje | Nivel |
 |----------| ----- |
-| HTML     | Basico |
-| Java     | Basico |
+| HTML     | Avanzado |
+| Java     | Intermedio |
 
 Checkboxes 
 - [ ] Escribir readme
@@ -27,5 +27,5 @@ Checkboxes
 
 > Insercion de la imagen
 <p> 
-  <img src="vallejo-for-the-ballon-dor-v0-wf65iwh2ht0f1.png" >
+  <img src="java.png" >
   </p>
