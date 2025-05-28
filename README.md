@@ -1,16 +1,22 @@
-## Hi there 👋
+**Hola, mi nombre es Samuel**
+## Actualmente estoy cursando un grado superior de informatica, mas especificamente un grado de desarrollo web. Me considero una persona responsable y con muchas ganas de aprender y aplicar todo lo que conozco a este entorno laboral. Aparte de esto soy una persona que no me importa trabajar en equipo y me gusta mantener una buena relacion con mis compañeros.
+Lista: 
+- Hola
+- Adios
 
-<!--
-**samu-gonz/samu-gonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lista enumerada 
+ 1. Paso 1  
+ 2. Paso 2
 
-Here are some ideas to get you started:
+> comentario
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+git add.
+git commit -m "Primer commit"
+git push origin main
+```
+
+| Lenguaje | Nivel |
+|----------| ----- |
+| HTML     | Basico |
+| Java     | Basico |
