@@ -25,4 +25,7 @@ Checkboxes
 - [ ] Escribir readme
 - [ ] no
 
-> Insercion de la imagen 
+> Insercion de la imagen
+<p> align=left>
+  <img src="vallejo-for-the-ballon-dor-v0-wf65iwh2ht0f1.png" >
+  </p>
