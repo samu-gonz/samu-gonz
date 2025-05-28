@@ -10,7 +10,10 @@
 - [ ] si
 - [ ] no
 
-> Insercion de la imagen
 <p> 
   <img src="java.png" >
   </p>
+
+Aqui tienen un video explicativo 
+
+[Video](https://www.youtube.com/watch?v=b5l5UodFzMo&pp=0gcJCdgAo7VqN5tD)
