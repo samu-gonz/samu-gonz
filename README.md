@@ -26,6 +26,6 @@ Checkboxes
 - [ ] no
 
 > Insercion de la imagen
-<p> align=left>
+<p> align=left
   <img src="vallejo-for-the-ballon-dor-v0-wf65iwh2ht0f1.png" >
   </p>
