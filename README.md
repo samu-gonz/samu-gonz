@@ -13,10 +13,6 @@
 | Ingles   | Nativo |
 | Español  | Nativo |
 
-¿Me aceptan en su empresa?
-- [ ] si
-- [ ] no
-
 <p> 
   <img src="java.png" >
   </p>
@@ -24,3 +20,7 @@
 Aqui tienen un video explicativo 
 
 [Video](https://www.youtube.com/watch?v=b5l5UodFzMo&pp=0gcJCdgAo7VqN5tD)
+
+¿Me aceptan en su empresa?
+- [ ] si
+- [ ] no
