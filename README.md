@@ -20,3 +20,9 @@ git push origin main
 |----------| ----- |
 | HTML     | Basico |
 | Java     | Basico |
+
+Checkboxes 
+- [ ] Escribir readme
+- [ ] no
+
+> Insercion de la imagen 
